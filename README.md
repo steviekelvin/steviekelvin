@@ -3,13 +3,13 @@
 </h1>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=steviekelvin" alt="Stevie Kelvin" /> 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/fsclaro?label=Followers&color=red&style=flat">
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/fsclaro?label=Stars&color=green&style=flat">  
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/steviekelvin?label=Followers&color=red&style=flat">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/steviekelvin?label=Stars&color=green&style=flat">  
 </p>
 
 <br/>
 
-<img align="right" src="https://github.com/fsclaro/fsclaro/blob/dc7dd0574929ac28b8de80fb8d7428b5cd348538/My%20Octocat.png" height="250px"/>
+<img align="right" src="https://github.com/steviekelvin/steviekelvin/blob/dc7dd0574929ac28b8de80fb8d7428b5cd348538/My%20Octocat.png" height="250px"/>
 <p align="left">I live in the city of Taubaté, São Paulo, Brazil. I am a Full Stack Developer at Grupo Embras. I am currently developing web solutions using front-end and back-end. In the back-end I mainly use the PHP language with Laravel or Ruby on Rails framework and for the front-end I use Angular and other solutions.
 </p>
 
