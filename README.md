@@ -77,8 +77,8 @@ In my free time I like:
 ### :chart_with_upwards_trend: GitHub Stats
 ---
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fsclaro&show_icons=true&include_all_commits&count_private=true&theme=default" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsclaro&layout=compact&theme=default&langs_count=8" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=steviekelvin&show_icons=true&include_all_commits&count_private=true&theme=default" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steviekelvin&layout=compact&theme=default&langs_count=8" />
 </p>
 
 </br></br>
