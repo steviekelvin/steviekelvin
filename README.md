@@ -1,26 +1,27 @@
 <h1>
-  Hi 🖖🏻, nice to see you. I'm Stevie Kelvin
+  Olá 🖖🏻, é um prazer vê-lo. Eu sou Stevie Kelvin
 </h1>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=steviekelvin" alt="Stevie Kelvin" /> 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/steviekelvin?label=Followers&color=red&style=flat">
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/steviekelvin?label=Stars&color=green&style=flat">  
+<img alt="Seguidores no GitHub" src="https://img.shields.io/github/followers/steviekelvin?label=Seguidores&color=red&style=flat">
+<img alt="Estrelas do GitHub" src="https://img.shields.io/github/stars/steviekelvin?label=Estrelas&color=green&style=flat">  
 </p>
 
 <br/>
 
 <img align="right" src="https://github.com/steviekelvin/steviekelvin/blob/dc7dd0574929ac28b8de80fb8d7428b5cd348538/My%20Octocat.png" height="250px"/>
-<p align="left">I live in the city of Taubaté, São Paulo, Brazil. I am a Full Stack Developer at Grupo Embras. I am currently developing web solutions using front-end and back-end. In the back-end I mainly use the PHP language with Laravel or Ruby on Rails framework and for the front-end I use Angular and other solutions.
+<p align="left">
+  Eu moro na cidade de Taubaté, São Paulo, Brasil. Sou Desenvolvedor Full Stack no Grupo Embras. Atualmente, estou desenvolvendo soluções web utilizando front-end e back-end. No back-end, uso principalmente a linguagem PHP com o framework Laravel ou Ruby on Rails, e para o front-end utilizo Angular e outras soluções.
 </p>
 
-In my free time I like: 
-* 📚 - read good books
-* 📺 - watch my favorites series: Marvel and DC series too. 
-* 🎵 - my favorite songs are the styles: Rap and Rock n'roll.
+No meu tempo livre eu gosto de:
+* 📚 - ler bons livros
+* 📺 - assistir minhas séries favoritas: séries da Marvel e DC também.
+* 🎵 - meus estilos musicais favoritos são: Rap e Rock n'Roll.
 
 </br>
 
-### 🔗 Connecting with me
+### 🔗 Conectando-se comigo
 ---
 
 [<img align="left" alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
@@ -28,7 +29,7 @@ In my free time I like:
 
 </br></br></br></br>
 
-### 🛡️ My skills
+### 🛡️ Minhas habilidades
 ---
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -60,7 +61,7 @@ In my free time I like:
 
 </br></br>
 
-### 💻 I'm currently learning
+### 💻 Estou aprendendo atualmente
 ---
 ![Nodejs](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
@@ -72,10 +73,9 @@ In my free time I like:
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Nokogiri](https://img.shields.io/badge/-Nokogiri-CC342D?style=flat-square&logo=ruby&logoColor=white)
 
-
 </br></br>
 
-### :chart_with_upwards_trend: GitHub Stats
+### :chart_with_upwards_trend: Estatísticas do GitHub
 ---
 <p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=steviekelvin&show_icons=true&include_all_commits&count_private=true&theme=default" />
@@ -84,7 +84,7 @@ In my free time I like:
 
 </br></br>
 
-Thanks a lot! :heart:
+Muito obrigado!
 
 [linkedin]: https://www.linkedin.com/in/steviekelvin
 [github]: https://www.github.com/steviekelvin
