@@ -11,7 +11,7 @@
 
 <img align="right" src="https://github.com/steviekelvin/steviekelvin/blob/dc7dd0574929ac28b8de80fb8d7428b5cd348538/My%20Octocat.png" height="250px"/>
 <p align="left">
-  Eu moro na cidade de Taubaté, São Paulo, Brasil. Sou Desenvolvedor Full Stack no Grupo Embras. Atualmente, estou desenvolvendo soluções web utilizando front-end e back-end. No back-end, uso principalmente a linguagem PHP com o framework Laravel ou Ruby on Rails, e para o front-end utilizo Angular e outras soluções.
+  Eu moro na cidade de Taubaté, São Paulo, Brasil. Sou Desenvolvedor Full Stack. Atualmente, estou desenvolvendo soluções web utilizando front-end e back-end. No back-end, uso principalmente a linguagem PHP com o framework Laravel ou Ruby on Rails, e para o front-end utilizo Angular e outras soluções.
 </p>
 
 No meu tempo livre eu gosto de:
