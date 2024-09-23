@@ -58,7 +58,9 @@ No meu tempo livre eu gosto de:
 ![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=flat-square&logo=Insomnia&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
+![Solid](https://img.shields.io/badge/Solid-CC0000?style=flat-square&logo=Solid&logoColor=white)
 </br></br>
 
 ### 💻 Estou aprendendo atualmente
@@ -67,11 +69,11 @@ No meu tempo livre eu gosto de:
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Nokogiri](https://img.shields.io/badge/-Nokogiri-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-CC342D?style=flat-square&logo=RabbitMQ&logoColor=white)
+![Typeorm](https://img.shields.io/badge/-Typeorm-CC342D?style=flat-square&logo=Typeorm&logoColor=white)
 
 </br></br>
 
