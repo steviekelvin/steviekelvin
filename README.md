@@ -16,7 +16,7 @@
 
 No meu tempo livre eu gosto de:
 * 📚 - ler bons livros
-* 📺 - assistir minhas séries favoritas: séries da Marvel e DC também.
+* 📺 - assistir minhas séries favoritas: séries da Marvel
 * 🎵 - meus estilos musicais favoritos são: Rap e Rock n'Roll.
 
 </br>
